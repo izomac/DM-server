@@ -3,14 +3,33 @@
 //#define FILTERSCRIPT
 
 #include <a_samp>
+#include <a_actor>
+#include <a_npc>
 #include <zcmd>
+#include <a_http>
+#include <a_objects>
+#include <a_players>
+#include <a_sampdb>
+#include <a_vehicles>
+#include <core>
+#include <datagram>
+#include <Defines_COLOR_VEH_WEAPONS>
+#include <file>
+#include <float>
+#include <gl_common>
+#include <gl_messages>
+#include <string>
+#include <time>
+#include <vehicleutil>
+#include <npcdll>
+#include <sscanf2>
 
 #if defined FILTERSCRIPT
 
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print(" Project DM");
+	print(" Project DM created by L1b3r4t0r & Izomac");
 	print("--------------------------------------\n");
 	return 1;
 }
