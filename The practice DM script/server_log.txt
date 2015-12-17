@@ -1,0 +1,16 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:40:00] 
+[17:40:00] Server Plugins
+[17:40:00] --------------
+[17:40:00]  Loaded 0 plugins.
+
+[17:40:00] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:40:00] It needs a gamemode0 line at the very least.
